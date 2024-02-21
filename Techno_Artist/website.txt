@@ -1,3 +1,3 @@
-Hail deploy web dental Netlify
+Hasil deploy web di Netlify
 
 https://sudut-ibukota.netlify.app/
